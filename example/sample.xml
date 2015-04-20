@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/dmitry/Dropbox/Books/C++/Qt_API_design_principles.pdf">
+ <pageList>
+  <page number="6">
+   <annotationList>
+    <annotation type="4">
+     <base flags="0" creationDate="2013-12-03T23:01:03" uniqueName="okular-{7da86a17-09cc-4430-87d2-cdf6f6c7b658}" author="Dmitry Ivanov" modifyDate="2013-12-03T23:01:03" color="#ffff00">
+      <boundary l="0.735969" r="0.815051" b="0.0734565" t="0.0648941"/>
+     </base>
+     <!-- Here is the manually added single-line comment -->
+     <hl>
+      <quad dx="0.736134" cx="0.815126" dy="0.0653207" bx="0.815126" cy="0.0653207" ax="0.736134" by="0.0736342" ay="0.0736342" feather="1"/>
+     </hl>
+    </annotation>
+    <annotation type="4">
+     <base flags="0" creationDate="2013-12-03T23:01:12" uniqueName="okular-{7f6ade88-ee9d-4a86-b949-8758716cab17}" author="Dmitry Ivanov" modifyDate="2013-12-03T23:01:12" color="#ffff00">
+      <boundary l="0.211735" r="0.820153" b="0.0982425" t="0.077963"/>
+     </base>
+     <hl>
+      <quad dx="0.211765" cx="0.626891" dy="0.0783848" bx="0.626891" cy="0.0783848" ax="0.211765" by="0.0866983" ay="0.0866983" feather="1"/>
+     </hl>
+    </annotation>
+    <annotation type="4">
+     <base flags="0" creationDate="2013-12-03T23:05:36" uniqueName="okular-{95c33307-5287-43e5-8e0f-45f373b33749}" author="Dmitry Ivanov" modifyDate="2013-12-03T23:05:36" color="#ffff00">
+      <boundary l="0.211735" r="0.730867" b="0.15187" t="0.143308"/>
+     </base>
+     <hl>
+      <quad dx="0.211765" cx="0.731092" dy="0.143705" bx="0.731092" cy="0.143705" ax="0.211765" by="0.152019" ay="0.152019" feather="1"/>
+     </hl>
+    </annotation>
+    <annotation type="4">
+     <base flags="0" creationDate="2013-12-03T23:06:47" uniqueName="okular-{e90f991a-5ecc-45f4-b00c-c0c914678c34}" author="Dmitry Ivanov" modifyDate="2013-12-03T23:06:47" color="#ffff00">
+      <boundary l="0.211735" r="0.801658" b="0.39297" t="0.371338"/>
+     </base>
+     <hl>
+      <quad dx="0.480672" cx="0.801681" dy="0.371734" bx="0.801681" cy="0.371734" ax="0.480672" by="0.380048" ay="0.380048" feather="1"/>
+      <quad dx="0.211765" cx="0.630252" dy="0.384798" bx="0.630252" cy="0.384798" ax="0.211765" by="0.393112" ay="0.393112" feather="1"/>
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="7">
+   <!-- Here is another comment -->
+   <annotationList>
+    <annotation type="4">
+     <base flags="0" creationDate="2013-12-03T23:49:19" uniqueName="okular-{5dccde27-5ac8-4b29-aff0-9d1d4e99ef1e}" author="Dmitry Ivanov" modifyDate="2013-12-03T23:49:19" color="#ffff00">
+      <boundary l="0.211735" r="0.641582" b="0.958089" t="0.949977"/>
+     </base>
+     <hl>
+      <quad dx="0.211765" cx="0.642017" dy="0.950119" bx="0.642017" cy="0.950119" ax="0.211765" by="0.958432" ay="0.958432" feather="1"/>
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="8">
+   <annotationList>
+    <annotation type="2">
+     <base flags="0" creationDate="2013-12-03T23:50:15" uniqueName="okular-{9c90051f-ad2a-4c9f-af85-300e46e4f052}" author="Dmitry Ivanov" modifyDate="2013-12-03T23:50:15" color="#007eee">
+      <boundary l="0.206653" r="0.840764" b="0.0950475" t="0.0505253"/>
+     </base>
+     <line closed="1">
+      <point x="0.206653" y="0.0505253"/>
+      <point x="0.840764" y="0.0505253"/>
+      <point x="0.840764" y="0.0950475"/>
+      <point x="0.206653" y="0.0950475"/>
+     </line>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <oldPage viewport="8"/>
+   <oldPage viewport="9"/>
+   <oldPage viewport="10"/>
+   <oldPage viewport="3;C2:0.5:0.975665:1"/>
+   <oldPage viewport="4;C2:0.517857:0.998197:1"/>
+   <oldPage viewport="5;C2:0.517857:0.0198288:1"/>
+   <oldPage viewport="4;C2:0.517857:0.998197:1"/>
+   <oldPage viewport="5;C2:0.517857:0.99324:1"/>
+   <oldPage viewport="6;C2:0.532207:1.00225:1"/>
+   <oldPage viewport="7;C2:0.540497:0.998197:1"/>
+   <current viewport="8;C2:0.56995:0.247605:1"/>
+  </history>
+  <views>
+   <view name="PageView">
+    <zoom mode="0" value="2.35597"/>
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>
