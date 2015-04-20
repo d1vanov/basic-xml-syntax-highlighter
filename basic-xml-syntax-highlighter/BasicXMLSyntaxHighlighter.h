@@ -2,6 +2,7 @@
 #define BASIC_XML_SYNTAX_HIGHLIGHTER_H
 
 #include <QSyntaxHighlighter>
+#include <QTextEdit>
 
 class BasicXMLSyntaxHighlighter : public QSyntaxHighlighter
 {
